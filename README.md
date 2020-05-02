@@ -1,2 +1,2 @@
-# debian-nginx
-Debian based nginx controller
+# centos-nginx
+CentOS based nginx controller
